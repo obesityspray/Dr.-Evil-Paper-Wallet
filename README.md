@@ -9,14 +9,7 @@ This project is powered by bitaddress.org source code: https://github.com/pointb
 
 Donate: 19M6Z8e8NwLJMs4qkh7FzUoUV1wZF1rLij
 ==========================================
-//
-//
-//
-//
-//
-//
-//
-////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
 
