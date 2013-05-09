@@ -1,7 +1,7 @@
 Dr. Evil Paper Wallet Generator
 ===============================
 
-Open-source paper wallet generator with Dr. Evil artwork.
+Open-source bitcoin paper wallet generator with Dr. Evil artwork.
 
 http://evilwallet.wordpress.com/
 
