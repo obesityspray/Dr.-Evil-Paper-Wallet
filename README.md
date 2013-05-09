@@ -1,5 +1,5 @@
-Dr.-Evil-Paper-Wallet
-=====================
+Dr. Evil Paper Wallet Generator
+===============================
 
 Open-source paper wallet generator with Dr. Evil artwork.
 
